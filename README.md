@@ -4,8 +4,7 @@ Runs a desired program then returns to another desired program.
 compatibility:
 + TI-84+CE
 + TI-84+CE-T
-+ TI-83pCE
-+ TI-83pCE-T
++ TI-83 premium CE
 
 # Usage
 Copy the `asm` folder and `runprogram.h` into your project's `src` directory then `include "runprogram.h"` in your program.
