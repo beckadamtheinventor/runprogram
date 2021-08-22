@@ -1,4 +1,8 @@
 
+# DONT USE THIS, IT HAS SCARY BUGS.
+Effective immediately August 21 2021 I am archiving this repo.
+License is still WTFPL but use it at your own risk.
+
 # A simple program running routine
 Runs a desired program then returns to another desired program.
 compatibility:
